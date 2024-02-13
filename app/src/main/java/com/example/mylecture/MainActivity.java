@@ -14,8 +14,8 @@ public class MainActivity extends AppCompatActivity {
     Button btnReset;
     int cnt = 0;
     boolean isWin = false;
-    String p1 = "X";
-    String p2 = "O";
+    String p1 = "A";
+    String p2 = "B";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

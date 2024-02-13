@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:background="@color/black"
         android:gravity="center"
-        android:padding="10dp"
+        android:padding="11dp"
         android:text="Tic Tac Toe"
         android:textColor="@color/white"
         android:textSize="20dp" />
